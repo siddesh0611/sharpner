@@ -1,0 +1,6 @@
+{
+    "git.autofetch": false,
+    "git.confirmEmptyCommits": false,
+    "git.confirmSync": false,
+    "git.detectSubmodules": true
+}
